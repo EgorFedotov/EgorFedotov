@@ -4,7 +4,7 @@
 
 ### Обо мне:
 
-Я начинающий backend разработчик. С сентября 2022 года учусь в Яндекс Практикуме на Python разработчика, делаю свои пет проекты: парсер авито, хочу интегрировать его в телеграм бота
+Я начинающий backend разработчик. С сентября 2022 года учусь в Яндекс Практикуме на Python разработчика, читаю книги: Чистый код, Грокаем алгоритмы, делаю свои пет проекты: парсер авито, хочу интегрировать его в телеграм бота. Интересуюсь криптой, планирую применить свои знания для написания скриптов. В данный момент ищу работу!
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-egorkaafedotov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/egorkaafedotov) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:egorfedotovarz@gmail.com)
 
